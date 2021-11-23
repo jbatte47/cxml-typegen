@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
     <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="XmlSchemaClassGenerator-beta" Version="2.0.594" />
   </ItemGroup>
 
 </Project>
